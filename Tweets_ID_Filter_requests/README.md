@@ -1,6 +1,6 @@
 ## This directory contains the Tweets’ ID obtained from performing a specific filter/search requested.
 
-If you are interested identifying and filtering Tweets given a specific feature that is not currently on the dataset due to Twitter Policies (i.e., geolocation) or you do not have enout computational resoruces to filter over the entire dataset, pls send me an email explaining the request, its purpose and the rational as to why you are not able to perform it. 
+If you are interested identifying and filtering Tweets given a specific feature that is not currently on the dataset due to Twitter Policies (i.e., geolocation) or you do not have enoguth computational resources to filter over the entire dataset, pls send me an email explaining the request, its purpose and the rational as to why you are not able to perform it. 
 
 In addition to that information, pls also share a R or python script to perform the search.
 
@@ -10,4 +10,4 @@ In addition to that information, pls also share a R or python script to perform 
 
 ## Filters Performed
 
-1.	The directory “EN_US_GEO_US” contains all the tweets ID of tweets in English, in which the country of the user was identified as “US” or the geolocation was within the US. 
+1.	The directory “EN_US_GEO_US” contains all the tweets ID of tweets in English, in which the country of the user was identified as “US” or the geolocation was within the US.
