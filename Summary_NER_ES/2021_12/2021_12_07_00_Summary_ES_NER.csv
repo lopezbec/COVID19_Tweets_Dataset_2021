@@ -1,0 +1,2165 @@
+Tweet_ID,NER_Text,Start_Pos,Eng_Pos,NER_Label,Prob
+,hilciasneptali,4,18,PER,0.9991
+,gpintovzla,42,52,PER,0.8506
+,brasil,97,103,LOC,0.9942
+,altagracia,114,124,LOC,0.9832
+,tinagt11,4,12,PER,0.9201
+,obracho1,15,23,PER,0.9429
+,gloriamaria057,25,39,PER,0.8662
+,earel24,41,48,PER,0.982
+,gcapruccia,84,94,PER,0.9802
+,alejandralacava,96,111,PER,0.9995
+,oscar,114,119,PER,0.9832
+,belen267248505,124,138,MISC,0.5214
+,estrategiadevacunación contra el covid_19mx,3,46,MISC,0.9999
+,edoméx,62,68,ORG,0.7704
+,noticiascaracol,4,19,ORG,0.8592
+,duque,46,51,PER,0.9999
+,avelinosalazar7,4,19,PER,0.9456
+,venezuela,21,30,LOC,1.0
+,covid-19,62,70,MISC,0.9999
+,estrategiadevacunación contra el covid_19mx,3,46,MISC,0.9999
+,edoméx,62,68,ORG,0.6273
+,covid_19mx,74,84,MISC,0.9998
+,jiquipilco,114,124,LOC,1.0
+,jocotitlán,126,136,LOC,1.0
+,morelos,138,145,LOC,1.0
+,sanjosédelrincón,147,163,LOC,0.8307
+,tultepec,166,174,LOC,1.0
+,estrategiadevacunación,227,249,MISC,0.9994
+,frayjosepho,4,15,PER,0.9549
+,mippcivzla,4,14,ORG,0.8311
+,plan de vacunación,36,54,MISC,0.8018
+,covi,135,139,MISC,0.9997
+,austria,3,10,LOC,0.9999
+,austria,71,78,LOC,0.9999
+,karl nehammer,80,93,PER,0.9998
+,hofburg,144,151,LOC,0.9995
+,interior,206,214,MISC,1.0
+,covid,247,252,MISC,0.9998
+,delacruzmusalem,4,19,PER,0.8347
+,covid_19mx,95,105,MISC,0.9868
+,ji,135,137,LOC,0.9997
+,bichofurioso,1,13,PER,0.9869
+,javierglezv,15,26,PER,0.9589
+,eugeniodors,28,39,PER,0.9966
+,bayer,83,88,ORG,0.9999
+,covid,166,171,MISC,0.9996
+,mi,4,6,MISC,0.7225
+,covid,94,99,PER,0.9999
+,edomex,4,10,ORG,0.9999
+,covid,102,107,MISC,0.9998
+,edoméxensemáforoverde,114,135,MISC,0.9708
+,noticiascaracol,4,19,ORG,0.8592
+,duque,46,51,PER,0.9999
+,hilciasneptali,4,18,PER,0.9991
+,gpintovzla,42,52,PER,0.8506
+,brasil,97,103,LOC,0.9942
+,altagracia,114,124,LOC,0.9832
+,congresotv212,4,17,ORG,0.9017
+,orellanacj,4,14,PER,0.9968
+,dir,34,37,ORG,0.4571
+,provincial,39,49,MISC,0.4605
+,orellanacj,54,64,PER,0.9192
+,stephaniav,67,77,PER,0.8378
+,a,78,79,PER,0.6823
+,dr,97,100,PER,0.6616
+,alex arteaga,101,113,PER,0.9999
+,dir provincial,115,129,MISC,0.7361
+,salu,134,138,MISC,0.6393
+,estado,194,200,ORG,0.9999
+,argentina,224,233,LOC,0.6984
+,noalpasesanitario,234,251,MISC,0.9957
+,avanzalibertad,252,266,MISC,0.8678
+,hilciasneptali,4,18,PER,0.9991
+,gpintovzla,42,52,PER,0.8506
+,brasil,97,103,LOC,0.9942
+,altagracia,114,124,LOC,0.9832
+,xavidotcat,1,11,ORG,0.6641
+,aethelwulf,13,23,ORG,0.9894
+,beatriztalegon,28,42,PER,0.9997
+,cpdedomex,4,13,ORG,0.9973
+,preveniressalud,28,43,MISC,0.7287
+,covid,103,108,MISC,0.9986
+,edoméxensemáforoverd,116,136,MISC,0.992
+,avelinosalazar7,4,19,PER,0.9354
+,covid-19,33,41,MISC,0.9998
+,flexibilizaciónampliada,60,83,MISC,0.9991
+,belen267248505,85,99,MISC,0.8561
+,alicia1681,101,111,PER,0.9079
+,camilarz,4,12,PER,0.9241
+,ffaaecuador,4,15,ORG,0.9999
+,loja,17,21,LOC,0.9994
+,@,47,48,ORG,0.7513
+,salud_ec,48,56,ORG,0.8873
+,ffaaecuador,63,74,ORG,0.999
+,dios,38,42,ORG,0.3088
+,wiesenthal1632,4,18,ORG,0.4897
+,juango ospina,20,33,PER,1.0
+,barrio de salamanca,108,127,LOC,0.9999
+,flmirones,4,13,PER,0.6922
+,mironews,15,23,MISC,0.9986
+,covid,42,47,MISC,0.9942
+,uci,54,57,ORG,0.9671
+,delacruzmusalem,4,19,PER,0.8347
+,covid_19mx,95,105,MISC,0.9868
+,ji,135,137,LOC,0.9997
+,ministeriosalud,4,19,ORG,0.9551
+,albertodougnac,29,43,PER,0.9998
+,noticiascaracol,4,19,ORG,0.8592
+,duque,46,51,PER,0.9999
+,ejb,4,7,ORG,0.9998
+,bcgoleary,8,17,MISC,0.9984
+,covid,22,27,PER,0.9995
+,cpdedomex,4,13,ORG,0.9973
+,preveniressalud,28,43,MISC,0.7287
+,covid,103,108,MISC,0.9986
+,edoméxensemáforoverd,116,136,MISC,0.992
+,soompispanish,4,17,ORG,0.9733
+,ist entertainment,19,36,ORG,0.9999
+,heo chan,49,57,PER,0.9999
+,covid-19,78,86,MISC,0.9923
+,victon,89,95,MISC,0.9805
+,noticiascaracol,4,19,ORG,0.8592
+,duque,46,51,PER,0.9999
+,danyelath13,1,12,PER,0.9994
+,reino unido,13,24,LOC,1.0
+,leydisperdomo4,4,18,PER,0.9027
+,covid-19,69,77,MISC,0.9995
+,mi,4,6,MISC,0.7225
+,covid,94,99,PER,0.9999
+,noticiascaracol,4,19,ORG,0.8592
+,duque,46,51,PER,0.9999
+,noticiascaracol,4,19,ORG,0.8592
+,duque,46,51,PER,0.9999
+,crehvm,4,10,ORG,0.7795
+,sspo,11,15,ORG,0.9013
+,covid,61,66,MISC,0.7216
+,crehvm,72,78,ORG,0.9114
+,sspo,79,83,ORG,0.6681
+,chalecosamarill,4,19,PER,0.9909
+,barbados,46,54,LOC,0.9997
+,mia amor mottley,56,72,PER,0.9999
+,bob marley,92,102,PER,0.9993
+,últimahora,1,11,MISC,0.7362
+,laagenciacdmx,41,54,ORG,0.99
+,covid,148,153,MISC,0.9701
+,tlalpanal,183,192,LOC,0.9821
+,exitorama,4,13,ORG,0.998
+,pfizer,84,90,MISC,0.8346
+,covid-19,99,107,MISC,0.9999
+,salud pú,131,139,ORG,0.6509
+,últimahora,20,30,MISC,0.8863
+,laagenciacdmx,60,73,ORG,0.9985
+,edinsonpatriota,4,19,ORG,0.9901
+,la covid-19,47,58,MISC,0.8626
+,flexibilizaciónampliada,60,83,MISC,0.9944
+,edinsonpatriota,85,100,ORG,0.9989
+,norelisacosta3,102,116,PER,0.6077
+,obracho1,127,135,ORG,0.9869
+,orellanacj,4,14,PER,0.9968
+,dir,34,37,ORG,0.4571
+,provincial,39,49,MISC,0.4605
+,orellanacj,54,64,PER,0.9192
+,stephaniav,67,77,PER,0.8378
+,a,78,79,PER,0.6823
+,dr,97,100,PER,0.6616
+,alex arteaga,101,113,PER,0.9999
+,dir provincial,115,129,MISC,0.7361
+,salu,134,138,MISC,0.6393
+,noticiascaracol,4,19,ORG,0.8592
+,duque,46,51,PER,0.9999
+,estrategiadevacunación,0,22,MISC,0.9981
+,covid,110,115,MISC,0.9985
+,jiquipilco,154,164,LOC,1.0
+,jocotitlán,166,176,LOC,1.0
+,morelos,178,185,LOC,1.0
+,sanjosédelrincón,187,203,LOC,0.8207
+,tultepec,206,214,LOC,1.0
+,aliciatsmn2,4,15,PER,0.9982
+,covid,120,125,MISC,0.9996
+,flmirones,4,13,PER,0.6922
+,mironews,15,23,MISC,0.9986
+,covid,42,47,MISC,0.9942
+,uci,54,57,ORG,0.9671
+,toluca,19,25,LOC,0.9999
+,covid_19mx,94,104,MISC,0.9988
+,estrategiadevacunación,171,193,MISC,0.6983
+,delacruzmusalem,4,19,ORG,0.9953
+,toluca,40,46,LOC,0.9999
+,covid,115,120,MISC,0.9985
+,alcalde,3,10,PER,0.4432
+,nycmayor,12,20,ORG,0.6183
+,covid-19,53,61,MISC,0.9998
+,ny,113,115,LOC,0.4586
+,nyc,116,119,LOC,0.8746
+,eu,120,122,LOC,0.6549
+,omicron,123,130,MISC,0.9985
+,puesto de mando unificado,68,93,MISC,1.0
+,covid,57,62,ORG,0.7542
+,manuelg05199021,108,123,PER,0.4168
+,eugeniodors,4,15,PER,0.4737
+,delacruzmusalem,4,19,ORG,0.9953
+,toluca,40,46,LOC,0.9999
+,covid,115,120,MISC,0.9985
+,eugeniodors,4,15,PER,0.9889
+,portugal,18,26,ORG,0.8533
+,covid,82,87,MISC,0.9993
+,metepec,135,142,LOC,1.0
+,zinacantepec,144,156,LOC,1.0
+,ixtlahuaca,158,168,LOC,1.0
+,sanfelipedelprogreso,171,191,LOC,0.9998
+,estrategiadevacunación,194,216,MISC,0.998
+,flmirones,4,13,PER,0.6922
+,mironews,15,23,MISC,0.9986
+,covid,42,47,MISC,0.9942
+,uci,54,57,ORG,0.9671
+,infobae,4,11,ORG,0.9995
+,covid-19,71,79,MISC,0.9998
+,últimahora,20,30,MISC,0.8863
+,laagenciacdmx,60,73,ORG,0.9985
+,rivero11thiago,4,18,PER,0.9956
+,canelo,10,16,PER,0.9982
+,dios,102,106,MISC,0.4866
+,tabarnia,4,12,ORG,0.8214
+,covid,83,88,PER,0.9728
+,visiontimesesp,4,18,ORG,0.9994
+,twitter,20,27,ORG,0.9992
+,asociación estadounidense del corazón,41,78,ORG,0.9999
+,covid,125,130,MISC,0.9998
+,chapurd,1,8,PER,0.5785
+,noticiascaracol,4,19,ORG,0.8592
+,duque,46,51,PER,0.9999
+,hilciasneptali,4,18,PER,0.9991
+,gpintovzla,42,52,PER,0.8506
+,brasil,97,103,LOC,0.9942
+,altagracia,114,124,LOC,0.9832
+,schwert,1,8,PER,0.7812
+,covid,55,60,MISC,0.9998
+,flmirones,4,13,PER,0.6922
+,mironews,15,23,MISC,0.9986
+,covid,42,47,MISC,0.9942
+,uci,54,57,ORG,0.9671
+,profcinreyes,1,13,PER,0.9494
+,arturoerdely,15,27,PER,0.999
+,alejandroc,29,39,PER,0.9982
+,iq,40,42,MISC,0.9962
+,covid,198,203,LOC,0.9977
+,uci,209,212,LOC,0.5657
+,covid,244,249,LOC,0.9978
+,kn95,262,266,MISC,0.9998
+,covid,130,135,MISC,0.9967
+,venezuela harrypotter flexibilizacionampliada,163,208,MISC,0.9991
+,andrea,4,10,PER,0.9973
+,gentil,11,17,PER,0.9996
+,tabarnia,4,12,ORG,0.8214
+,covid,83,88,PER,0.9728
+,mila87723614,4,16,PER,0.5942
+,coruña,21,27,LOC,0.9968
+,libertad,60,68,MISC,0.8361
+,los niños no,72,84,MISC,0.7061
+,televisión,98,108,MISC,0.9992
+,manipulación,110,122,MISC,0.9946
+,ivanduque,4,13,PER,0.7421
+,minsaludcol,55,66,ORG,0.973
+,hilciasneptali,4,18,PER,0.9991
+,gpintovzla,42,52,PER,0.8506
+,brasil,97,103,LOC,0.9942
+,altagracia,114,124,LOC,0.9832
+,belisa82754991,4,18,PER,0.9986
+,madrid,128,134,ORG,0.9194
+,noticiascaracol,4,19,ORG,0.8592
+,duque,46,51,PER,0.9999
+,noticiascaracol,4,19,ORG,0.8592
+,duque,46,51,PER,0.9999
+,nueva,134,139,LOC,0.9504
+,yosequehacer2,4,17,ORG,0.7361
+,rauldominguezb2,4,19,PER,0.9634
+,maykelltwin,22,33,PER,0.9954
+,diazcanelb,35,45,PER,0.999
+,drrobertomojeda,47,62,PER,0.9998
+,japortalmiranda,64,79,ORG,0.5516
+,finlayinstituto,81,96,ORG,0.9999
+,cesarturruellas,98,113,PER,0.9993
+,arielpitaf,115,125,PER,0.9429
+,fuentefriais,127,139,PER,0.4735
+,covid,19,24,ORG,0.9999
+,cancillería de guayaquil,41,65,LOC,0.9927
+,covid,78,83,MISC,0.9995
+,quito,122,127,LOC,1.0
+,jeffbezos,157,166,ORG,0.9998
+,ecuador,183,190,LOC,0.9999
+,microvistazo,201,213,MISC,0.9998
+,gobierno,20,28,ORG,1.0
+,ómicron,68,75,MISC,0.9922
+,covid-19,79,87,MISC,0.9996
+,argentina,91,100,LOC,1.0
+,gemvep,4,10,ORG,0.9992
+,balance,18,25,MISC,0.7119
+,alerta,69,75,MISC,0.8841
+,atacama,95,102,LOC,1.0
+,biobio,104,110,LOC,0.9999
+,losríos,112,119,LOC,0.9826
+,loslagos,121,129,LOC,0.8738
+,últimahora,0,10,MISC,0.8989
+,tlalpan,87,94,LOC,0.9999
+,covid-19,93,101,MISC,0.9999
+,campeche,160,168,LOC,0.9999
+,gemvep,4,10,ORG,0.9992
+,balance,18,25,MISC,0.7119
+,alerta,69,75,MISC,0.8841
+,atacama,95,102,LOC,1.0
+,biobio,104,110,LOC,0.9999
+,losríos,112,119,LOC,0.9826
+,loslagos,121,129,LOC,0.8738
+,covid-19,27,35,MISC,0.9996
+,colegio médico de santa cruz,39,67,ORG,0.9955
+,calvo,108,113,PER,0.997
+,elciclista9,4,15,ORG,0.9558
+,valencia,57,65,LOC,1.0
+,danyelath13,1,12,PER,0.9989
+,portugal,13,21,LOC,0.9995
+,onu,77,80,ORG,1.0
+,bm,83,85,ORG,0.9999
+,alfredodelmazo,4,18,PER,0.9438
+,reporte,20,27,MISC,0.5723
+,covid,28,33,MISC,0.9925
+,edoméx,45,51,LOC,0.9994
+,huhconh,4,11,MISC,0.6592
+,burguer king,54,66,MISC,0.9999
+,covid,96,101,MISC,0.9979
+,ómicron,21,28,PER,0.9999
+,diariotalcual,4,17,ORG,0.98
+,maiquetía,70,79,LOC,0.9999
+,sapnoticiasmx,4,17,ORG,0.7218
+,cfos,23,27,MISC,0.5363
+,inteligencia artificial,79,102,MISC,0.9999
+,ai,104,106,MISC,0.9994
+,machine learning,110,126,MISC,0.9999
+,cardozojax,4,14,MISC,0.3703
+,infobae,17,24,ORG,0.9983
+,noticiascaracol,4,19,ORG,0.8592
+,duque,46,51,PER,0.9999
+,palma de mallorca,86,103,LOC,1.0
+,lopezdoriga,4,15,PER,0.7172
+,astrazeneca,86,97,ORG,0.9998
+,tlalpan,122,129,LOC,1.0
+,gcata5356,4,13,MISC,0.9902
+,explicamesalinas,15,31,MISC,0.9019
+,uy,60,62,ORG,0.9955
+,dra chinda brandolino,65,86,PER,0.912
+,portugal,37,45,LOC,0.9999
+,covid,74,79,MISC,0.9997
+,exitorama,4,13,ORG,0.998
+,pfizer,84,90,MISC,0.8346
+,covid-19,99,107,MISC,0.9999
+,salud pú,131,139,ORG,0.6509
+,noticiascaracol,4,19,ORG,0.8592
+,duque,46,51,PER,0.9999
+,orellanacj,4,14,PER,0.9968
+,dir,34,37,ORG,0.4571
+,provincial,39,49,MISC,0.4605
+,orellanacj,54,64,PER,0.9192
+,stephaniav,67,77,PER,0.8378
+,a,78,79,PER,0.6823
+,dr,97,100,PER,0.6616
+,alex arteaga,101,113,PER,0.9999
+,dir provincial,115,129,MISC,0.7361
+,salu,134,138,MISC,0.6393
+,revistafactorrh,4,19,ORG,0.9112
+,covid-19,21,29,MISC,0.9995
+,axakeralty covid19,76,94,MISC,0.8176
+,cpdedomex,4,13,ORG,0.9973
+,preveniressalud,28,43,MISC,0.7287
+,covid,103,108,MISC,0.9986
+,edoméxensemáforoverd,116,136,MISC,0.992
+,policiacucuta,16,29,ORG,0.9894
+,edgardiazpalant,31,46,PER,0.9999
+,victorbautistao,48,63,PER,0.9997
+,silvanoserranog,65,80,PER,0.9998
+,plazahuber,115,125,PER,0.9893
+,jairocristo,127,138,PER,0.7486
+,setransitonds,140,153,PER,0.9976
+,marthamariareye,155,170,PER,0.7067
+,andrescristob,172,185,PER,0.9995
+,martham48230946,201,216,PER,0.9995
+,3carime,235,242,PER,0.8351
+,alicastrocr5,244,256,PER,0.9973
+,valeriomorenom,328,342,PER,0.9998
+,jleonardojacome,344,359,PER,0.9993
+,cmnortsantander,361,376,PER,0.9914
+,covid,418,423,ORG,0.9726
+,carlosmartnroj4,428,443,PER,0.9997
+,arstideshernnd8,445,460,PER,0.9996
+,contraloriands,462,476,PER,0.9725
+,alcaldiacucuta,478,492,ORG,0.9924
+,jaimemartheyt,504,517,PER,0.9998
+,cucutamunicipal,519,534,ORG,0.655
+,pgn,552,555,ORG,0.9983
+,col,556,559,ORG,0.7388
+,cúcuta,560,566,LOC,0.9949
+,oscarsandovalb,577,591,PER,0.9828
+,delacruzmusalem,4,19,ORG,0.9953
+,toluca,40,46,LOC,0.9999
+,covid,115,120,MISC,0.9985
+,pcr,35,38,MISC,0.9995
+,covid-19,44,52,MISC,0.9999
+,municipalidad de colina,59,82,LOC,0.9988
+,andrea,4,10,PER,0.9973
+,gentil,11,17,PER,0.9996
+,primeraplanaecu,4,19,ORG,0.9998
+,covid_19,46,54,MISC,0.8826
+,fiestas de,128,138,MISC,0.8704
+,camilarz,4,12,PER,0.9241
+,noticiascaracol,4,19,ORG,0.8592
+,duque,46,51,PER,0.9999
+,leydisperdomo4,4,18,PER,0.9027
+,covid-19,69,77,MISC,0.9995
+,noticiascaracol,4,19,ORG,0.8592
+,duque,46,51,PER,0.9999
+,avelinosalazar7,4,19,PER,0.9456
+,venezuela,21,30,LOC,1.0
+,covid-19,62,70,MISC,0.9999
+,christianayola,4,18,PER,0.9997
+,saludedomex,4,15,ORG,0.9906
+,covid,82,87,MISC,0.9995
+,méxico,17,23,LOC,0.9997
+,covid19,52,59,MISC,0.9999
+,sars-cov-2,38,48,MISC,0.9998
+,covid-19,236,244,MISC,0.9999
+,reforma,4,11,ORG,0.9139
+,covid19,42,49,MISC,0.9999
+,marcosmrtin,4,15,PER,0.9504
+,españa,71,77,LOC,1.0
+,lopezdoriga,4,15,PER,0.7172
+,astrazeneca,86,97,ORG,0.9998
+,tlalpan,122,129,LOC,1.0
+,eugeniodors,4,15,PER,0.4737
+,andrea,4,10,PER,0.9973
+,gentil,11,17,PER,0.9996
+,imagen,4,10,ORG,0.9729
+,últimahora,15,25,ORG,0.928
+,méxico,32,38,LOC,0.9999
+,covid19,67,74,MISC,0.9999
+,edomex,4,10,ORG,1.0
+,covid,97,102,MISC,0.9992
+,cuidemostodosdetodos,109,129,ORG,0.8582
+,minsa,4,9,ORG,0.999
+,peru,10,14,LOC,0.9998
+,viceministro de prestaciones y aseguramiento en salud,24,77,PER,0.9995
+,augusto tarazona,79,95,PER,0.9999
+,101fmmerida,4,15,ORG,0.933
+,covid,60,65,MISC,0.9997
+,silvestrefdc,138,150,PER,0.8507
+,tanaferro1978,1,14,PER,0.9578
+,covid,112,117,MISC,0.9996
+,andrea,4,10,PER,0.9973
+,gentil,11,17,PER,0.9996
+,kep1er,57,63,ORG,0.9981
+,covid-19,88,96,MISC,0.9999
+,gracias a dios,195,209,MISC,0.9909
+,noticiascaracol,4,19,ORG,0.8592
+,duque,46,51,PER,0.9999
+,últimahora,20,30,MISC,0.8863
+,laagenciacdmx,60,73,ORG,0.9985
+,delta,21,26,ORG,0.9998
+,delta,8,13,MISC,0.9993
+,atodahorasiemprealamano,99,122,MISC,0.4984
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,lufthansa,12,21,ORG,0.9999
+,airfrance,23,32,ORG,0.9999
+,delta,35,40,ORG,0.9999
+,santa lucía,83,94,LOC,0.9562
+,astm international,39,57,ORG,0.9999
+,astmintl,60,68,ORG,0.9682
+,delta-8 thc,130,141,MISC,0.9985
+,cbd,196,199,MISC,0.9977
+,sxz2yju4cc,224,234,ORG,0.9662
+,anthony fauci,0,13,PER,0.9999
+,ómicron,16,23,MISC,0.9997
+,delta,65,70,MISC,0.9977
+,esnoticia,21,30,MISC,0.5797
+,nueva york,35,45,ORG,0.9955
+,schumer,84,91,PER,0.9999
+,fauci,142,147,PER,0.9992
+,vivoplay,216,224,MISC,0.9206
+,industria420,4,16,ORG,0.7559
+,astm international,57,75,ORG,0.9999
+,astmintl,78,86,ORG,0.9996
+,fellfallow,4,14,ORG,0.8008
+,delta,20,25,LOC,0.9747
+,angrythekid,1,12,PER,0.9405
+,elnacionalweb,4,17,ORG,0.9972
+,anthony fauci,19,32,PER,0.9999
+,ómicron,35,42,MISC,0.9993
+,draanamarialth,4,18,PER,0.9996
+,delta,81,86,MISC,0.9997
+,canellesmatilde,4,19,PER,0.9825
+,ómicron,48,55,MISC,0.9998
+,delta,128,133,MISC,0.9999
+,elnacionalweb,4,17,ORG,0.9972
+,anthony fauci,19,32,PER,0.9999
+,ómicron,35,42,MISC,0.9993
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,monika delta,44,56,PER,0.9999
+,lordmurielo,4,15,PER,0.9851
+,omicrón,20,27,ORG,0.9999
+,puente pueyrredón,56,73,LOC,0.9994
+,barrios de pie,85,99,ORG,0.9999
+,ccc,105,108,ORG,0.9995
+,marcoculquimd,4,17,PER,0.9992
+,sarscov2,29,37,MISC,0.9999
+,ecuador,54,61,LOC,1.0
+,delta,63,68,LOC,0.9999
+,lordmurielo,4,15,PER,0.9851
+,omicrón,20,27,ORG,0.9999
+,puente pueyrredón,56,73,LOC,0.9994
+,barrios de pie,85,99,ORG,0.9999
+,ccc,105,108,ORG,0.9995
+,lordmurielo,4,15,PER,0.9851
+,omicrón,20,27,ORG,0.9999
+,puente pueyrredón,56,73,LOC,0.9994
+,barrios de pie,85,99,ORG,0.9999
+,ccc,105,108,ORG,0.9995
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,lordmurielo,4,15,PER,0.9851
+,omicrón,20,27,ORG,0.9999
+,puente pueyrredón,56,73,LOC,0.9994
+,barrios de pie,85,99,ORG,0.9999
+,ccc,105,108,ORG,0.9995
+,babe ruth,23,32,PER,0.9998
+,parque delta,49,61,LOC,0.9999
+,la vida,65,72,ORG,0.9998
+,youtube,105,112,ORG,0.4702
+,malavidarp1,4,15,ORG,0.9988
+,perbess,18,25,PER,0.9729
+,omicrom,93,100,ORG,0.9982
+,lordmurielo,4,15,PER,0.9851
+,omicrón,20,27,ORG,0.9999
+,puente pueyrredón,56,73,LOC,0.9994
+,barrios de pie,85,99,ORG,0.9999
+,ccc,105,108,ORG,0.9995
+,inscolombia,4,15,ORG,0.9998
+,últimaactualización vigilanciagenómicains,17,58,MISC,0.8778
+,fellfallow,4,14,ORG,0.8008
+,delta,20,25,LOC,0.9747
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,capi,20,24,PER,0.9973
+,delta,63,68,MISC,0.6438
+,copi,70,74,PER,0.9716
+,rinoire,4,11,PER,0.9917
+,martinimonday lancia delta s4,13,42,MISC,0.9967
+,esnoticia,21,30,ORG,0.9983
+,nueva york,36,46,ORG,0.9958
+,schumer,85,92,PER,0.9999
+,fauci,143,148,PER,0.9992
+,ómicron,150,157,MISC,0.9977
+,delta  tvv,188,198,MISC,0.9489
+,nueva zelanda,41,54,LOC,0.9999
+,co2,89,92,MISC,0.9993
+,elnacionalweb,4,17,ORG,0.9972
+,anthony fauci,19,32,PER,0.9999
+,ómicron,35,42,MISC,0.9993
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,aspauzarazuri,4,17,PER,0.7147
+,mónica delta,38,50,PER,0.9999
+,fnix41330175,4,16,PER,0.9729
+,drenriqueparis,39,53,PER,0.9957
+,delta,82,87,MISC,0.9999
+,thélisi,1,8,LOC,0.9997
+,delta,9,14,LOC,0.9969
+,dun,21,24,PER,0.9988
+,delta,0,5,PER,0.9009
+,elhackernet,4,15,ORG,0.97
+,sputnik v,13,22,MISC,0.9998
+,rosario,26,33,LOC,1.0
+,cepa,53,57,MISC,0.9998
+,astrazeneca,69,80,ORG,0.9999
+,aspauzarazuri,4,17,PER,0.7147
+,mónica delta,38,50,PER,0.9999
+,vivoplaynet,4,15,ORG,0.9994
+,esnoticia,38,47,MISC,0.9978
+,nueva york,52,62,ORG,0.9929
+,schumer,101,108,PER,0.9999
+,américa latina,33,47,LOC,1.0
+,onu,100,103,ORG,0.9999
+,américa latina,123,137,LOC,0.9999
+,ómicron,183,190,MISC,0.9998
+,delta,218,223,MISC,0.9999
+,milikobboy,4,14,ORG,0.5386
+,ministeriosalud,17,32,ORG,0.9924
+,drenriqueparis,34,48,ORG,0.4798
+,mega,50,54,ORG,0.9992
+,lordmurielo,1,12,PER,0.9284
+,delta,56,61,MISC,0.9999
+,doc zin,68,75,PER,0.894
+,alferdez,1,9,PER,0.6851
+,astrazeneca,11,22,ORG,0.9999
+,cepa delta,80,90,LOC,0.9983
+,jpmasespanol,4,16,ORG,0.9934
+,américa latina,51,65,LOC,0.9999
+,onu,118,121,ORG,1.0
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,torocabron,1,11,MISC,0.4955
+,delta,176,181,MISC,0.9999
+,jpmasespanol,4,16,ORG,0.9934
+,américa latina,51,65,LOC,0.9999
+,onu,118,121,ORG,1.0
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,friedmanntomas,4,18,ORG,0.9614
+,ómicron,40,47,MISC,0.9999
+,uruguay,57,64,LOC,1.0
+,gregorio iraola,71,86,PER,1.0
+,delta,114,119,MISC,0.9999
+,weather nerds,57,70,MISC,0.9989
+,uk,199,201,ORG,0.994
+,vicenteserrano,2,16,PER,0.9913
+,partidomorenamx,18,33,ORG,0.9998
+,morena,59,65,ORG,0.9998
+,porfirio,82,90,PER,0.9999
+,layda sansores,152,166,PER,0.9999
+,campeche,170,178,LOC,1.0
+,amlo,211,215,PER,0.9998
+,sejuela603,4,14,ORG,0.8101
+,ministeriosalud,17,32,ORG,0.975
+,drenriqueparis,34,48,PER,0.9062
+,india,180,185,LOC,0.9999
+,draanamarialth,4,18,PER,0.9996
+,delta,81,86,MISC,0.9997
+,marcetamayo79,4,17,PER,0.6401
+,fegasg,20,26,ORG,0.9997
+,polificcion,28,39,MISC,0.8973
+,delt,135,139,LOC,0.989
+,aaretxaba,1,10,PER,0.9364
+,delta,36,41,MISC,0.9999
+,regacarlos,4,14,ORG,0.7054
+,reino unido,21,32,LOC,1.0
+,radioduna,4,13,ORG,0.9987
+,nadapersonal,17,29,ORG,0.4421
+,jmanalich,33,42,PER,0.525
+,ómicron,49,56,PER,0.5987
+,delta neutral,20,33,MISC,0.9997
+,mirror,38,44,MISC,0.9998
+,fellfallow,4,14,ORG,0.8008
+,delta,20,25,LOC,0.9747
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,aeromexico,1,11,ORG,0.9999
+,cancun,106,112,LOC,1.0
+,cdmx,115,119,LOC,0.9999
+,vivaaerobus,131,142,ORG,0.9999
+,elopinadortv,234,246,ORG,0.9978
+,cirogomezl,248,258,PER,0.7924
+,nytimes,260,267,ORG,0.9976
+,delta,269,274,ORG,0.9999
+,capi,20,24,PER,0.9973
+,delta,63,68,MISC,0.6438
+,copi,70,74,PER,0.9716
+,aperezriverol,1,14,PER,0.7538
+,cuba,110,114,LOC,1.0
+,delta,162,167,MISC,0.9999
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,elhackernet,4,15,ORG,0.97
+,finanzas_times,4,18,ORG,0.9974
+,delta,60,65,MISC,0.9999
+,japón,114,119,LOC,1.0
+,gustocol,4,12,ORG,0.6274
+,kicillofok,15,25,PER,0.9997
+,fellfallow,4,14,ORG,0.8008
+,delta,20,25,LOC,0.9747
+,elnacionalweb,4,17,ORG,0.9972
+,anthony fauci,19,32,PER,0.9999
+,ómicron,35,42,MISC,0.9993
+,aeromexico,1,11,ORG,0.9999
+,delta,262,267,ORG,0.9999
+,excelsior,269,278,ORG,0.9999
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,🍊,44,45,PER,0.9965
+,mt,106,108,ORG,0.9997
+,dperiscopio,1,12,ORG,0.9004
+,velardedaoiz2,14,27,PER,0.9498
+,sudáfrica,139,148,LOC,1.0
+,delta,235,240,MISC,0.9996
+,fauci,62,67,PER,0.9999
+,fauci,70,75,PER,0.9999
+,quinteros,6,15,PER,0.9999
+,contactos estrechos,46,66,MISC,0.9999
+,ce,159,161,MISC,0.9996
+,ce,173,175,MISC,0.9992
+,delta,179,185,MISC,0.9983
+,ce,263,265,MISC,0.9996
+,monika delta,44,56,PER,0.9999
+,jpmasespanol,4,16,ORG,0.9934
+,américa latina,51,65,LOC,0.9999
+,onu,118,121,ORG,1.0
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,aeromexico,1,11,ORG,0.9999
+,delta,261,266,ORG,0.9999
+,imagenzea,268,277,ORG,0.6352
+,friedmanntomas,4,18,ORG,0.9614
+,ómicron,40,47,MISC,0.9999
+,uruguay,57,64,LOC,1.0
+,gregorio iraola,71,86,PER,1.0
+,delta,114,119,MISC,0.9999
+,áncash,3,9,LOC,0.9203
+,diresa,164,170,ORG,1.0
+,pologarciawhite,1,16,PER,0.9862
+,lopezobrador,18,30,PER,0.9596
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,elhackernet,4,15,ORG,0.97
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,nachorgz,4,12,PER,0.7235
+,pablofuente,4,15,PER,0.9972
+,covid19,17,24,MISC,0.9997
+,omicron,67,74,ORG,0.9995
+,delta,81,86,ORG,0.9979
+,fellfallow,4,14,ORG,0.8008
+,delta,20,25,LOC,0.9747
+,nachorgz,4,12,PER,0.7235
+,agencia,4,11,ORG,0.9985
+,andina,12,18,ORG,0.9747
+,áncash,23,29,LOC,0.9967
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,delta 317,47,56,MISC,0.9486
+,lax,73,76,LOC,0.9999
+,oak,83,86,LOC,0.9992
+,dca,123,126,LOC,0.9998
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,florida,11,18,ORG,0.9987
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,ómicron,19,26,PER,0.9988
+,delta,109,114,MISC,0.9554
+,bilderbergiana,1,15,ORG,0.6191
+,alfa,110,114,MISC,0.9989
+,beta,116,120,MISC,0.9992
+,gamma,122,127,MISC,0.9997
+,delta,129,134,MISC,0.9997
+,lambda,136,142,MISC,0.9998
+,mu,144,146,MISC,0.9987
+,kappa,148,153,MISC,0.9998
+,iota,155,159,MISC,0.9988
+,eta,161,164,MISC,0.9993
+,ómicron,185,192,MISC,0.9987
+,rinoire,4,11,PER,0.9917
+,martinimonday lancia delta s4,13,42,MISC,0.9967
+,aspauzarazuri,4,17,PER,0.7147
+,mónica delta,38,50,PER,0.9999
+,delta,15,20,ORG,0.9921
+,katsuragui,4,14,ORG,0.7902
+,ómicron,35,42,PER,0.929
+,delta,125,130,MISC,0.9966
+,katsuragui,4,14,ORG,0.7902
+,ómicron,35,42,PER,0.929
+,delta,125,130,MISC,0.9966
+,monica delta,33,45,PER,0.9999
+,delta amacuro,78,91,LOC,0.9993
+,anvelas18,4,13,PER,0.4696
+,delta amacuro,72,85,LOC,0.9981
+,jorgegestoso,4,16,PER,0.9957
+,katsuragui,4,14,ORG,0.7902
+,ómicron,35,42,PER,0.929
+,delta,125,130,MISC,0.9966
+,gramasana,1,10,ORG,0.9996
+,delta omicrón,11,24,MISC,0.9675
+,gramasana,33,42,ORG,0.9993
+,katsuragui,4,14,ORG,0.7902
+,ómicron,35,42,PER,0.929
+,delta,125,130,MISC,0.9966
+,katsuragui,4,14,ORG,0.7902
+,ómicron,35,42,PER,0.929
+,delta,125,130,MISC,0.9966
+,american,0,8,ORG,0.9998
+,delta,10,15,ORG,0.9997
+,royal,17,22,ORG,0.9997
+,carnival,25,33,ORG,0.9998
+,ny,65,67,LOC,1.0
+,mónica delta,27,39,PER,0.9999
+,brasil,46,52,ORG,0.9314
+,eeuu,55,59,ORG,0.9849
+,delta,61,66,ORG,0.9999
+,río,97,100,LOC,0.9999
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,jorgegestoso,4,16,PER,0.9957
+,mercado,132,139,ORG,0.9897
+,martinasisters,4,18,PER,0.9879
+,katsuragui,4,14,ORG,0.7902
+,ómicron,35,42,PER,0.929
+,delta,125,130,MISC,0.9966
+,katsuragui,4,14,ORG,0.7902
+,ómicron,35,42,PER,0.929
+,delta,125,130,MISC,0.9966
+,jorgegestoso,4,16,PER,0.9957
+,katsuragui,4,14,ORG,0.7902
+,ómicron,35,42,PER,0.929
+,delta,125,130,MISC,0.9966
+,notpaloleaks,4,16,ORG,0.6529
+,pase de batalla,39,54,MISC,0.9999
+,marshmello,92,102,PER,0.9996
+,ala d,134,139,MISC,0.9947
+,katsuragui,4,14,ORG,0.7902
+,ómicron,35,42,PER,0.929
+,delta,125,130,MISC,0.9966
+,lordmurielo,4,15,PER,0.9851
+,omicrón,20,27,ORG,0.9999
+,puente pueyrredón,56,73,LOC,0.9994
+,barrios de pie,85,99,ORG,0.9999
+,ccc,105,108,ORG,0.9995
+,martinasisters,4,18,PER,0.4734
+,rafaelg,4,11,PER,0.495
+,wmam71,21,27,PER,0.5192
+,gurusaa,29,36,PER,0.6106
+,sochinfoficial,38,52,ORG,0.6939
+,delta,67,72,ORG,0.9142
+,minsal,117,123,ORG,1.0
+,sejuela603,4,14,ORG,0.8101
+,ministeriosalud,17,32,ORG,0.975
+,drenriqueparis,34,48,PER,0.9062
+,jnuneztomas,1,12,PER,0.9964
+,tvciudaduy,14,24,ORG,0.9995
+,tinchorgz enotroorden,26,47,PER,0.9963
+,sudáfrica,123,132,LOC,1.0
+,oms,175,178,ORG,0.9998
+,delta,248,253,MISC,0.9999
+,jnuneztomas,257,268,PER,0.991
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,katsuragui,4,14,ORG,0.7902
+,ómicron,35,42,PER,0.929
+,delta,125,130,MISC,0.9966
+,graciandr,4,13,PER,0.8639
+,katsuragui,4,14,ORG,0.7902
+,ómicron,35,42,PER,0.929
+,delta,125,130,MISC,0.9966
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,ultimahoracom,4,17,ORG,0.9984
+,ramón gonzález daher,75,95,PER,0.9999
+,delta bank,111,121,ORG,0.9999
+,estados u,130,139,ORG,0.8659
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,ronaldcrossperu,1,16,PER,0.998
+,delta,49,54,MISC,0.9999
+,katsuragui,4,14,ORG,0.7902
+,ómicron,35,42,PER,0.929
+,delta,125,130,MISC,0.9966
+,capi,20,24,PER,0.9973
+,delta,63,68,MISC,0.6438
+,copi,70,74,PER,0.9716
+,katsuragui,4,14,ORG,0.7902
+,ómicron,35,42,PER,0.929
+,delta,125,130,MISC,0.9966
+,joanaberwanger,1,15,LOC,0.7979
+,albertosativa,4,17,PER,0.9992
+,alvarez rodrích,118,133,PER,0.9999
+,tafu,135,139,PER,0.9997
+,malenapichon,4,16,PER,0.9975
+,delta,92,97,MISC,0.9491
+,jramiromx,4,13,PER,0.6846
+,variante ómicron,60,76,MISC,0.9994
+,delta,108,113,MISC,0.9999
+,anthony fauci,123,136,PER,0.9999
+,sobamelemondieu,1,16,PER,0.9966
+,fufupelito,1,11,ORG,0.9919
+,alee,1,5,PER,0.5794
+,garciapetion,1,13,PER,0.5909
+,garciapetion,41,53,PER,0.6246
+,venezuela,95,104,LOC,1.0
+,sandovalera,137,148,PER,0.9999
+,josé enrique,150,162,PER,0.9999
+,strength mask,165,178,PER,0.9988
+,cañonera grirl,189,203,PER,0.9952
+,el de froix,206,217,PER,0.9993
+,premiergamingtv,4,19,ORG,0.7479
+,liga premier,41,53,MISC,0.9992
+,tornado,95,102,MISC,0.9876
+,tiodissel,109,118,MISC,0.9718
+,codmobile,1,10,ORG,0.9999
+,kazinhell,1,10,MISC,0.6903
+,emiliestalinez,1,15,PER,0.9994
+,shamkaq,17,24,PER,0.9978
+,ricesculpordwar,26,41,PER,0.6328
+,kurtcooh,43,51,PER,0.6746
+,dalas,194,199,PER,0.9985
+,sweet mask,224,234,MISC,0.9999
+,kike5play,247,256,MISC,0.9999
+,codmobile,13,22,ORG,0.9996
+,ibispen,14,21,MISC,0.9999
+,ibis,64,68,ORG,0.9998
+,monipalaciosz,4,17,PER,0.981
+,pdte,31,35,ORG,0.9673
+,lassoguillermo,38,52,PER,0.4401
+,banco del pacífico,83,101,ORG,0.9999
+,publicenemig,4,16,ORG,0.9701
+,philipamlc,4,14,ORG,0.6725
+,consorcio icij,19,33,ORG,0.9999
+,off-shores,75,85,MISC,0.9992
+,lasso,89,94,LOC,0.9834
+,la,24,26,LOC,0.9999
+,white mask,104,114,MISC,0.9995
+,philipamlc,4,14,ORG,0.9999
+,officer,61,68,MISC,0.8724
+,principal,70,79,MISC,0.5024
+,gran kahuna,88,99,PER,0.7241
+,guiil,134,139,PER,0.9988
+,philipamlc,4,14,ORG,0.9998
+,aruba,69,74,LOC,1.0
+,bahamas,77,84,LOC,1.0
+,jorgerojascr,4,16,PER,0.9996
+,claroecua,128,137,ORG,0.579
+,ibispen,14,21,MISC,0.9999
+,ibis,64,68,ORG,0.9997
+,ibispen,14,21,MISC,0.9999
+,ibis,66,70,ORG,0.9999
+,torerohincha,4,16,PER,0.9984
+,robert181283,19,31,PER,0.9465
+,miguelloor,33,43,PER,0.7692
+,bsc,81,84,ORG,0.9994
+,libertadores,95,107,MISC,0.9998
+,jose13355852,4,16,PER,0.9962
+,luisfermendez,19,32,PER,0.9996
+,barcebeny,36,45,PER,0.8789
+,miguelloor,47,57,PER,0.6961
+,idv,59,62,ORG,0.9998
+,ec,63,65,ORG,0.9999
+,tobeginbreathin,1,16,ORG,0.9595
+,wizardingworld,18,32,ORG,0.9827
+,hbomax,34,40,ORG,0.9388
+,catervismo,21,31,ORG,0.9578
+,ismaelulloaec,4,17,PER,0.9998
+,pandorapapers,48,61,MISC,0.987
+,philipamlc,4,14,ORG,0.97
+,pandora,48,55,MISC,0.9999
+,lasso,108,113,PER,0.9999
+,philipamlc,4,14,ORG,0.9681
+,richard297es,4,16,PER,0.9739
+,philipamlc,19,29,ORG,0.9993
+,philipamlc,4,14,ORG,0.9966
+,richard297es,17,29,PER,0.5232
+,juancar48649597,4,19,PER,0.9996
+,philipamlc,22,32,PER,0.7659
+,anthonygastezzi,4,19,PER,0.9966
+,philipamlc,22,32,ORG,0.997
+,philipamlc,17,27,PER,0.7152
+,dianasalazarm2,43,57,PER,0.9995
+,fiscaliaecuad,126,139,ORG,0.9864
+,wilfridolaz,4,15,PER,0.6293
+,vacunadosvip,24,36,MISC,0.9995
+,offshoresvip,51,63,MISC,0.9994
+,guardera,131,139,PER,0.9998
+,prisschettini,4,17,ORG,0.6031
+,asambleaecuador,114,129,ORG,0.9308
+,swf,4,7,ORG,0.9999
+,sandovalera,68,79,PER,0.9999
+,strengh mask,82,94,PER,0.9997
+,talibanelmusu,1,14,PER,0.4373
+,ose,16,19,ORG,0.7921
+,uruguay,20,27,LOC,0.7948
+,roña,0,4,LOC,0.981
+,grooot11,1,9,MISC,0.6744
+,keylovesziam,12,24,PER,0.9766
+,blackxdeath,26,37,PER,0.4416
+,keylovesziam,1,13,PER,0.8006
+,blackxdeath,28,39,MISC,0.2576
+,grooot11,1,9,MISC,0.7897
+,julixpotter,12,23,PER,0.4094
+,pinkyfaye,4,13,MISC,0.3475
+,aldubftnqt,16,26,PER,0.9949
+,elainerequina2x,28,43,PER,0.9989
+,ftangco,57,64,ORG,0.8553
+,amazingadn,122,132,PER,0.8028
+,angie,1,6,PER,0.9956
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.3427
+,vax,114,117,MISC,0.9991
+,dra,136,139,MISC,0.9838
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,itsmesamygirl,1,14,ORG,0.6356
+,españa,58,64,LOC,1.0
+,tratados de nuremberg,274,295,MISC,0.7744
+,fmlidermdq,4,14,ORG,0.3398
+,dra,58,61,PER,0.9997
+,chinda brandolino,63,80,PER,0.7813
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.775
+,norte argentino,16,31,LOC,0.9999
+,c19,67,70,MISC,0.9978
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,vax,68,71,MISC,0.9998
+,c19,223,226,MISC,0.9893
+,vax,84,87,MISC,0.9998
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.3427
+,vax,114,117,MISC,0.9991
+,dra,136,139,MISC,0.9838
+,vax,84,87,MISC,0.9998
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,beatriztalegon,10,24,PER,0.9998
+,txellmonclus,26,38,PER,0.9991
+,bea,86,89,PER,0.7046
+,oms,99,102,ORG,0.9992
+,arnm,128,132,MISC,0.9994
+,culo,140,144,ORG,0.9984
+,vax,84,87,MISC,0.9998
+,fmlidermdq,4,14,ORG,0.3427
+,vax,114,117,MISC,0.9991
+,dra,136,139,MISC,0.9838
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.3427
+,vax,114,117,MISC,0.9991
+,dra,136,139,MISC,0.9838
+,beatriztalegon,1,15,PER,0.9998
+,tv,58,60,ORG,0.9858
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,beatriztalegon,13,27,PER,0.9998
+,fmlidermdq,4,14,ORG,0.5297
+,fmlidermdq,4,14,ORG,0.775
+,norte argentino,16,31,LOC,0.9999
+,c19,67,70,MISC,0.9978
+,marumarisa4,13,24,PER,0.881
+,fmlidermdq,4,14,ORG,0.3427
+,vax,114,117,MISC,0.9991
+,dra,136,139,MISC,0.9838
+,fmlidermdq,4,14,ORG,0.3427
+,vax,114,117,MISC,0.9991
+,dra,136,139,MISC,0.9838
+,cecilia14114452,4,19,PER,0.9918
+,marumarisa4,34,45,PER,0.7019
+,vax,84,87,MISC,0.9998
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,vax,84,87,MISC,0.9998
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.3427
+,vax,114,117,MISC,0.9991
+,dra,136,139,MISC,0.9838
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.775
+,norte argentino,16,31,LOC,0.9999
+,c19,67,70,MISC,0.9978
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,cecilia14114452,4,19,PER,0.9918
+,marumarisa4,34,45,PER,0.7019
+,fmlidermdq,4,14,ORG,0.3398
+,dra,58,61,PER,0.9997
+,chinda brandolino,63,80,PER,0.7813
+,fmlidermdq,4,14,ORG,0.3427
+,vax,114,117,MISC,0.9991
+,dra,136,139,MISC,0.9838
+,fmlidermdq,4,14,ORG,0.3427
+,vax,114,117,MISC,0.9991
+,dra,136,139,MISC,0.9838
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.3427
+,vax,114,117,MISC,0.9991
+,dra,136,139,MISC,0.9838
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.775
+,norte argentino,16,31,LOC,0.9999
+,c19,67,70,MISC,0.9978
+,fmlidermdq,4,14,ORG,0.3427
+,vax,114,117,MISC,0.9991
+,dra,136,139,MISC,0.9838
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.3427
+,vax,114,117,MISC,0.9991
+,dra,136,139,MISC,0.9838
+,noalpasesanitario,0,17,MISC,0.9793
+,resolución,66,76,MISC,0.9362
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.5297
+,fmlidermdq,4,14,ORG,0.3427
+,vax,114,117,MISC,0.9991
+,dra,136,139,MISC,0.9838
+,fmlidermdq,4,14,ORG,0.5297
+,fmlidermdq,4,14,ORG,0.4855
+,noalpasesanitario hacetevaler yonomevacuno,16,58,MISC,0.8282
+,master,63,69,MISC,0.6122
+,derecho penal,73,86,MISC,0.9998
+,argentina,106,115,LOC,1.0
+,fmlidermdq,4,14,ORG,0.775
+,norte argentino,16,31,LOC,0.9999
+,c19,67,70,MISC,0.9978
+,fmlidermdq,4,14,ORG,0.3427
+,vax,114,117,MISC,0.9991
+,dra,136,139,MISC,0.9838
+,vax,84,87,MISC,0.9998
+,ebolaperonista,4,18,ORG,0.9413
+,wuhan,90,95,LOC,1.0
+,declanharp12,4,16,PER,0.9929
+,ficha,89,94,MISC,0.6801
+,tarantini09,4,15,PER,0.5955
+,tarantini09,4,15,PER,0.5955
+,londres,11,18,LOC,0.9998
+,parís,20,25,LOC,0.9999
+,talca,28,33,LOC,0.9998
+,silico,170,176,LOC,0.5204
+,paranense,61,70,ORG,0.9994
+,tickantel,72,81,ORG,0.9998
+,tarantini09,4,15,PER,0.5955
+,flamencantada,1,14,PER,0.9168
+,pcr,27,30,MISC,0.9855
+,tarantini09,4,15,PER,0.5955
+,lilianaqkemp12,1,15,PER,0.9948
+,cabasgustavo,17,29,PER,0.9578
+,fruizgomez,31,41,PER,0.9994
+,minsaludcol,43,54,ORG,0.7224
+,infopresidencia,56,71,ORG,0.9363
+,monkitumonkiyo,4,18,PER,0.641
+,lagkomikame,4,15,ORG,0.5677
+,johnmackerman,4,17,PER,0.9969
+,justlils,4,12,ORG,0.9844
+,iliarist,4,12,ORG,0.6463
+,oms,79,82,ORG,0.9999
+,pcr,106,109,MISC,0.9972
+,cielo,12,17,MISC,0.9809
+,dios,95,99,ORG,0.5227
+,elnacionalweb,87,100,ORG,0.9997
+,flexibilizaciónampliada,13,36,MISC,0.8641
+,moreno,124,130,PER,0.9987
+,tarantini09,4,15,PER,0.5955
+,hlb,48,51,MISC,0.9992
+,paraguay,97,105,LOC,0.9635
+,nestornunezpy,4,17,PER,0.7283
+,reiner fuellmich,23,39,PER,0.9999
+,johnmackerman,4,17,PER,0.9969
+,nataliataffarel,1,16,PER,0.9984
+,curioseantes,18,30,MISC,0.9419
+,gandlaz,32,39,PER,0.9995
+,gus,41,44,PER,0.9991
+,noriega,45,52,PER,0.9996
+,sanitariotiktok,4,19,ORG,0.9246
+,pcr,83,86,MISC,0.9997
+,anabellamariad,4,18,PER,0.4634
+,teo_vilca,4,13,PER,0.9317
+,enriquepcs,16,26,PER,0.9879
+,vladimir,28,36,PER,0.5725
+,cerron,37,43,PER,0.9424
+,perú,111,115,LOC,1.0
+,pabloiglesias,4,17,PER,0.9952
+,esaumejia,4,13,ORG,0.7221
+,anriver13,4,13,PER,0.4649
+,losahernan,1,11,PER,0.6086
+,corpoelecinfo,4,17,ORG,0.9977
+,declanharp12,4,16,PER,0.9929
+,ficha,89,94,MISC,0.6801
+,justlils,4,12,ORG,0.9844
+,bivorts,4,11,PER,0.9993
+,boric,73,78,PER,0.9999
+,chile,109,114,LOC,0.9999
+,pimentonverde,4,17,ORG,0.8128
+,masanpra,4,12,ORG,0.5884
+,ministeriosalud,4,19,ORG,0.9938
+,virus del vih,92,105,MISC,0.9654
+,infecciones de transmi,117,139,MISC,0.9997
+,cielo,30,35,MISC,0.9384
+,dios,113,117,ORG,0.7956
+,mila87723614,4,16,PER,0.8507
+,jubilaciones,0,20,MISC,0.9999
+,neo,28,31,PER,0.9933
+,anses,64,69,LOC,0.6099
+,mila87723614,4,16,PER,0.8676
+,larahernandezc6,4,19,PER,0.9837
+,ponte máscarilla,49,65,PER,0.9884
+,zombie,18,24,MISC,0.9966
+,costanera,134,143,LOC,0.9999
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,cirus39774081,4,17,PER,0.8543
+,alfonsogjb,4,14,PER,0.9925
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,fajardo,25,32,PER,0.9999
+,montarazab,1,11,PER,0.493
+,depradaooc,13,23,PER,0.9975
+,guardiacivil,83,95,ORG,0.9828
+,gobiernogenocida,116,132,ORG,0.9998
+,gobi,133,137,PER,0.9997
+,andy chango,151,162,PER,0.9998
+,cannabis,177,185,MISC,0.546
+,universo,271,279,MISC,0.899
+,ordenador,185,194,MISC,0.9963
+,pabloiglesias,4,17,PER,0.9952
+,catalina,6,14,LOC,0.9885
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,nekromaz,12,20,MISC,0.5107
+,ébola,98,103,MISC,0.998
+,gripe,105,110,MISC,0.9997
+,tarantini09,4,15,PER,0.5955
+,tamaulipassalud,4,19,ORG,0.9994
+,vih,70,73,MISC,0.9994
+,uci,193,196,ORG,0.9698
+,pabloiglesias,4,17,PER,0.9952
+,bejinjinara,4,15,ORG,0.4726
+,perú,17,21,LOC,1.0
+,tours,79,84,LOC,0.9999
+,flexibilizaciónampliada,13,36,MISC,0.8641
+,d,24,25,MISC,0.7898
+,monkitumonkiyo,4,18,PER,0.641
+,magickprincess,1,15,PER,0.3709
+,libertad003,4,15,ORG,0.7512
+,3dic,21,25,MISC,0.8722
+,laprevencióneslaclave,29,50,MISC,0.9999
+,ivanduque llamativo,1,20,PER,0.9999
+,jaimet55,1,9,PER,0.9815
+,marcelomoyaf,4,16,PER,0.9137
+,ministeriosalud,19,34,ORG,0.9954
+,drenriqueparis,36,50,PER,0.7697
+,libertad003,4,15,ORG,0.7512
+,3dic,21,25,MISC,0.8722
+,laprevencióneslaclave,29,50,MISC,0.9999
+,herpes,166,172,MISC,0.5903
+,rosapantin1301,4,18,ORG,0.5588
+,málaga,20,26,LOC,0.9997
+,españa,28,34,LOC,1.0
+,hospital univer,124,139,LOC,0.9449
+,nataliataffarel,1,16,PER,0.9992
+,nabucondonozor1,18,33,PER,0.8082
+,gabi54161266,35,47,PER,0.9985
+,ockyquir,49,57,PER,0.9599
+,patriotaapolit1,4,19,PER,0.9679
+,geoestratego,22,34,MISC,0.4664
+,libertad003,4,15,ORG,0.7512
+,3dic,21,25,MISC,0.8722
+,laprevencióneslaclave,29,50,MISC,0.9999
+,ciara,4,9,ORG,0.8746
+,pasteur,84,91,PER,0.9999
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,raulher,4,11,PER,0.6033
+,mariaferweb,30,41,MISC,0.3979
+,epi,127,130,MISC,0.9967
+,pabloiglesias,4,17,PER,0.9952
+,mariolysosap,4,16,PER,0.9996
+,bivorts,4,11,PER,0.9993
+,boric,73,78,PER,0.9999
+,chile,109,114,LOC,0.9999
+,nmabarinas,4,14,ORG,0.5695
+,vih,16,19,MISC,0.9959
+,andresvelasqz,1,14,PER,0.9998
+,alcaldeledezma,16,30,PER,0.9982
+,mariacorinaya,32,45,PER,0.9997
+,nelsonbocaranda,60,75,PER,0.9345
+,tamara,88,94,PER,0.9471
+,suju,95,99,PER,0.9774
+,maibortpetit,101,113,PER,0.9874
+,julioborges,129,140,PER,0.9992
+,julito,158,164,PER,0.435
+,tarantini09,4,15,PER,0.5955
+,cuingnb,4,11,ORG,0.9992
+,gnbtachira puebloprotegido,105,131,MISC,0.9408
+,ce,132,134,MISC,0.7206
+,tarantini09,4,15,PER,0.5955
+,pabloiglesias,4,17,PER,0.9952
+,monkitumonkiyo,4,18,PER,0.641
+,amaurisa55,4,14,PER,0.9919
+,flexibilizaciónampliada,16,39,MISC,0.8414
+,luissos48604810,41,56,PER,0.9557
+,4freddy23,77,86,PER,0.7253
+,ivanvillasmil3,105,119,PER,0.9992
+,maradel80683226,122,137,PER,0.8006
+,rosapantin1301,4,18,ORG,0.5588
+,málaga,20,26,LOC,0.9997
+,españa,28,34,LOC,1.0
+,hospital univer,124,139,LOC,0.9449
+,carol,1,6,PER,0.6982
+,arnm,47,51,MISC,0.9998
+,desdeinteresnac,1,16,MISC,0.9746
+,devils,4,10,MISC,0.8424
+,iawyer,11,17,MISC,0.7331
+,perú,34,38,LOC,1.0
+,mav,4,7,ORG,0.9709
+,masanpra,4,12,ORG,0.6703
+,alejandr0camb,4,17,PER,0.9986
+,zombie,18,24,MISC,0.997
+,costanera,134,143,LOC,0.9999
+,astro,4,9,ORG,0.9994
+,spain2,10,16,ORG,0.6677
+,mj,33,35,PER,0.9856
+,happy virus,91,102,MISC,0.9999
+,nataliataffarel,1,16,PER,0.9993
+,nabucondonozor1,18,33,PER,0.8394
+,gabi54161266,35,47,PER,0.9978
+,ockyquir,49,57,PER,0.9736
+,flexibilizaciónampliada,13,36,MISC,0.8641
+,monkitumonkiyo,4,18,PER,0.641
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,pabloiglesias,4,17,PER,0.9952
+,tarantini09,4,15,PER,0.5955
+,foxmackalister,15,29,ORG,0.7781
+,drjorgebombau,31,44,PER,0.9996
+,bocayboca4,1,11,ORG,0.8603
+,la12tuittera,13,25,ORG,0.4795
+,anteigualdad,1,13,ORG,0.983
+,belialys,15,23,PER,0.9422
+,jorgevento,25,35,PER,0.8015
+,toalex14,37,45,PER,0.983
+,coronavid19,47,58,PER,0.9862
+,justlils,4,12,ORG,0.9844
+,rosapantin1301,4,18,ORG,0.5588
+,málaga,20,26,LOC,0.9997
+,españa,28,34,LOC,1.0
+,hospital univer,124,139,LOC,0.9449
+,gobiernocriminalcorruptoymentiroso,47,81,ORG,0.9979
+,8m,120,122,MISC,0.6357
+,ba-q-na,10,17,MISC,0.9999
+,pcr,46,49,MISC,0.9997
+,martinasisters,4,18,ORG,0.8166
+,ómicron,61,68,MISC,0.9988
+,marygarciamusic,4,19,PER,0.9447
+,cumbresaludmedellín,104,123,MISC,0.9996
+,germanenriquen2,4,19,ORG,0.9358
+,leydisperdomo4,92,106,PER,0.4478
+,vallerca29,108,118,PER,0.9992
+,yasmi70,120,127,PER,0.5959
+,alejand,130,137,PER,0.9995
+,iliarist,4,12,ORG,0.6463
+,oms,79,82,ORG,0.9999
+,pcr,106,109,MISC,0.9972
+,saludgobpue,4,15,ORG,0.9974
+,sars-cov-2,65,75,MISC,0.9996
+,alertacovidpuebla,87,104,MISC,0.9617
+,jaumegarcia,1,12,PER,0.9994
+,alemanajubilada,15,30,PER,0.9943
+,tl,74,76,MISC,0.9986
+,de padra,97,105,PER,0.9997
+,beatriztalegon,1,15,PER,0.9998
+,pabloiglesias,4,17,PER,0.9952
+,germanenriquen2,4,19,ORG,0.9358
+,leydisperdomo4,92,106,PER,0.4478
+,vallerca29,108,118,PER,0.9992
+,yasmi70,120,127,PER,0.5959
+,alejand,130,137,PER,0.9995
+,cazador07859559,4,19,MISC,0.8194
+,ministeriosalud,22,37,ORG,0.8964
+,drenriqueparis,39,53,PER,0.9948
+,aniblue1212,4,15,PER,0.9126
+,noalpasesanitario,17,34,MISC,0.8525
+,nurembergcode,43,56,MISC,0.998
+,45latecnica,4,15,ORG,0.8834
+,vissotti,53,61,PER,0.9999
+,gremlin,1,8,PER,0.999
+,bivorts,4,11,PER,0.9993
+,boric,73,78,PER,0.9999
+,chile,109,114,LOC,0.9999
+,anilem,4,10,PER,0.7199
+,libertad003,4,15,ORG,0.7512
+,3dic,21,25,MISC,0.8722
+,laprevencióneslaclave,29,50,MISC,0.9999
+,pabloiglesias,4,17,PER,0.9952
+,hetgebeur,4,13,ORG,0.7743
+,pabloiglesias,4,17,PER,0.9952
+,rosapantin1301,4,18,ORG,0.5588
+,málaga,20,26,LOC,0.9997
+,españa,28,34,LOC,1.0
+,hospital univer,124,139,LOC,0.9449
+,45latecnica,4,15,ORG,0.8834
+,vissotti,53,61,PER,0.9999
+,mariolysosap,4,16,PER,0.9996
+,mav,4,7,ORG,0.9709
+,querubín,212,220,PER,0.9993
+,elrenegado0107,4,18,ORG,0.8448
+,marcovzla3,1,11,PER,0.999
+,c5n,13,16,ORG,0.9995
+,fedkukso,4,12,ORG,0.9966
+,monkitumonkiyo,4,18,PER,0.641
+,castill30971623,1,16,PER,0.8167
+,mippcivzla,18,28,PER,0.6671
+,nicolasmaduro,30,43,PER,0.9991
+,amabdel1973,45,56,PER,0.873
+,dinahi40,58,66,PER,0.5596
+,reynalith1,68,78,PER,0.6891
+,omairamorillo5,80,94,PER,0.9998
+,omargonsalez,96,108,PER,0.3886
+,sotojavier16,110,122,PER,0.999
+,josecas82365434,124,139,PER,0.9998
+,jackyal12,141,150,PER,0.9459
+,g_pisarello,4,15,PER,0.9996
+,dperiscopio,1,12,MISC,0.7412
+,velardedaoiz2,14,27,PER,0.9581
+,bbcmundo,4,12,ORG,0.9995
+,ddgalliano,1,11,PER,0.8484
+,carolinapiparo,13,27,PER,0.9952
+,obracho1,4,12,ORG,0.9909
+,solchi1986,4,14,PER,0.9933
+,pabloiglesias,4,17,PER,0.9952
+,vtvcanal8,4,13,ORG,0.9494
+,cuidatusalud,15,27,MISC,0.9275
+,solchi1986,4,14,PER,0.9933
+,obracho1,4,12,ORG,0.9909
+,drfreedomra,4,15,PER,0.8676
+,vizzotti,36,44,MISC,0.5725
+,declanharp12,4,16,PER,0.9929
+,ficha,89,94,MISC,0.6801
+,libertad003,4,15,ORG,0.7512
+,3dic,21,25,MISC,0.8722
+,laprevencióneslaclave,29,50,MISC,0.9999
+,rosapantin1301,4,18,ORG,0.5588
+,málaga,20,26,LOC,0.9997
+,españa,28,34,LOC,1.0
+,hospital univer,124,139,LOC,0.9449
+,oms,27,30,ORG,0.9998
+,omega-aleph,90,101,MISC,1.0
+,bejinjinara,4,15,ORG,0.4726
+,perú,17,21,LOC,1.0
+,tours,79,84,LOC,0.9999
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,diegor1,1,8,PER,0.7382
+,vivicanosaok,11,23,MISC,0.3526
+,europa,292,298,LOC,0.9988
+,juliancontr2000,1,16,PER,0.9987
+,reginafromsanmi,18,33,PER,0.9988
+,giovannilarosa0,50,65,PER,0.6976
+,gastoneltrueno,67,81,PER,0.9993
+,julián,87,93,PER,0.9932
+,pablolucini3,4,16,PER,0.9992
+,virginiamarcia9,4,19,PER,0.9993
+,castill30971623,22,37,PER,0.5855
+,mippcivzla,39,49,PER,0.9515
+,nicolasmaduro,51,64,PER,0.9995
+,amabdel1973,66,77,PER,0.5833
+,reynalith1,89,99,PER,0.6601
+,omairamorillo5,101,115,PER,0.9998
+,sotojavi,131,139,PER,0.9809
+,pesotolp,1,9,PER,0.6409
+,osvaldobazan,11,23,PER,0.4886
+,justlils,25,33,MISC,0.9514
+,petri,122,127,MISC,0.999
+,johnmackerman,4,17,PER,0.9969
+,jolycor,1,8,PER,0.5596
+,javierglezv,10,21,PER,0.9114
+,eugeniodors,23,34,PER,0.9905
+,arnm,64,68,MISC,0.9998
+,pabloiglesias,4,17,PER,0.9952
+,hctorrojo10,1,12,PER,0.9993
+,rrodrigocuevas,4,18,MISC,0.4201
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,pabloiglesias,4,17,PER,0.9952
+,javipaz87973322,1,16,PER,0.9987
+,reginafromsanmi,18,33,PER,0.9992
+,giovannilarosa0,50,65,PER,0.8379
+,gastoneltrueno,67,81,PER,0.999
+,ig,110,112,ORG,1.0
+,charlie,1,8,PER,0.9529
+,joseurbinasv,4,16,PER,0.949
+,ómicron,123,130,MISC,0.9999
+,mariolysosap,4,16,PER,0.9996
+,remodelemosar,4,17,ORG,0.9979
+,cartagoxx,4,13,ORG,0.5569
+,declanharp12,4,16,PER,0.9929
+,ficha,89,94,MISC,0.6801
+,pegy98,1,7,PER,0.5169
+,marxlibertario,9,23,PER,0.4642
+,johnmackerman,4,17,PER,0.9969
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,monkitumonkiyo,4,18,PER,0.641
+,declanharp12,4,16,PER,0.9929
+,ficha,89,94,MISC,0.6801
+,troyano,1,8,MISC,0.9262
+,softwaremalicioso,45,62,MISC,0.9721
+,jovenclubteconecta,195,213,MISC,0.9985
+,lunesdeciberseguridad,222,243,MISC,0.999
+,nicooandreoli,4,17,PER,0.9958
+,noalpasesanitario,19,36,MISC,0.9731
+,animalfoxx,1,11,MISC,0.8218
+,llesbcn,13,20,ORG,0.5032
+,coronadades,22,33,MISC,0.8744
+,libertad003,4,15,ORG,0.7512
+,3dic,21,25,MISC,0.8722
+,laprevencióneslaclave,29,50,MISC,0.9999
+,monkitumonkiyo,4,18,PER,0.641
+,cuingnb,4,11,ORG,0.9992
+,gnbtachira puebloprotegido,105,131,MISC,0.9408
+,ce,132,134,MISC,0.7206
+,flexibilizaciónampliada,13,36,MISC,0.8641
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,raulher,4,11,PER,0.6033
+,mariaferweb,30,41,MISC,0.3979
+,epi,127,130,MISC,0.9967
+,marygarciamusic,4,19,PER,0.9447
+,cumbresaludmedellín,104,123,MISC,0.9996
+,dperiscopio,1,12,MISC,0.7393
+,velardedaoiz2,14,27,PER,0.9534
+,s-indel,132,139,MISC,0.9996
+,rosapantin1301,4,18,ORG,0.5588
+,málaga,20,26,LOC,0.9997
+,españa,28,34,LOC,1.0
+,hospital univer,124,139,LOC,0.9449
+,mippcivzla,1,11,PER,0.8062
+,aqmoncaleano,4,16,PER,0.5367
+,rivas,19,24,PER,0.9993
+,declanharp12,4,16,PER,0.9929
+,ficha,89,94,MISC,0.6801
+,rojoedwards,1,12,PER,0.5456
+,rojo,18,23,PER,0.9977
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,antonio44501,4,16,PER,0.7348
+,declanharp12,4,16,PER,0.9929
+,ficha,89,94,MISC,0.6801
+,pandemia,24,32,MISC,0.9996
+,magaly,4,10,PER,0.9533
+,geoestratego,16,28,MISC,0.5745
+,ministeriosalud,1,16,ORG,0.9663
+,drenriqueparis,18,32,PER,0.5907
+,cuauhtemoc,1,11,PER,0.9992
+,gripe española,20,34,MISC,0.9999
+,ah1n1,153,158,MISC,0.9998
+,escritosjonhy,4,17,MISC,0.3878
+,cartagoxx,4,13,ORG,0.5569
+,rosapantin1301,4,18,ORG,0.5588
+,málaga,20,26,LOC,0.9997
+,españa,28,34,LOC,1.0
+,hospital univer,124,139,LOC,0.9449
+,jovenclubplaya,4,18,ORG,0.9998
+,softwaremalicioso,65,82,MISC,0.9683
+,quiquepeinado,4,17,ORG,0.6211
+,stephim29,4,13,PER,0.5903
+,chet,102,106,ORG,0.7305
+,pabloiglesias,4,17,PER,0.9952
+,pabloiglesias,4,17,PER,0.9952
+,eduardoestrella,1,16,PER,0.9978
+,camarasd,18,26,ORG,0.4578
+,manuellunasued,28,42,PER,0.9816
+,anyarleneberges,44,59,PER,0.9997
+,noaladictadurasanitaria,151,174,MISC,0.9984
+,noalaagenda2030,175,190,MISC,0.9978
+,reloadedlnz2020,13,28,ORG,0.9926
+,cristoelmago,4,16,PER,0.976
+,cuttysark4,19,29,PER,0.9902
+,monkitumonkiyo,43,57,PER,0.7044
+,fiable,58,64,PER,0.9979
+,hguerrerohgr,1,13,PER,0.4117
+,ivanduque,15,24,PER,0.9814
+,minsaludcol,26,37,ORG,0.9976
+,sinovac,248,255,MISC,0.9593
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,cartagoxx,4,13,ORG,0.5569
+,thor,1,5,PER,0.9994
+,declanharp12,4,16,PER,0.9929
+,ficha,89,94,MISC,0.6801
+,elpueblo,10,18,ORG,0.9954
+,cartagoxx,4,13,ORG,0.5569
+,johnmackerman,4,17,PER,0.9969
+,la matanza,56,66,LOC,0.9999
+,javipaz87973322,1,16,PER,0.9981
+,reginafromsanmi,18,33,PER,0.999
+,giovannilarosa0,50,65,PER,0.7669
+,gastoneltrueno,67,81,PER,0.9992
+,solchi1986,4,14,PER,0.9933
+,rocionieto,4,14,PER,0.4717
+,johnmackerman,4,17,PER,0.9969
+,rrodrigocuevas,4,18,MISC,0.4201
+,santiguarderas,10,24,ORG,0.6576
+,quito,137,142,LOC,0.9999
+,pabloiglesias,4,17,PER,0.9952
+,wuhan,133,138,LOC,0.9885
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,cuingnb,4,11,ORG,0.9992
+,gnbtachira puebloprotegido,105,131,MISC,0.9408
+,ce,132,134,MISC,0.7206
+,cartagoxx,4,13,ORG,0.5569
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,delcyrodriguezv,4,19,PER,0.4485
+,ezequielcon,1,12,PER,0.531
+,monkitumonkiyo,4,18,PER,0.641
+,canicsal29,4,14,ORG,0.2767
+,gps,95,98,MISC,0.7395
+,janogarcia,1,11,PER,0.8286
+,pcch,135,139,ORG,0.9998
+,lopezdoriga,1,12,PER,0.8191
+,solchi1986,4,14,PER,0.9933
+,nachorosell,1,12,PER,0.6443
+,anilem,4,10,ORG,0.8011
+,4cuenta,11,18,MISC,0.7021
+,cartagoxx,4,13,ORG,0.5569
+,johnmackerman,4,17,PER,0.9969
+,cartagoxx,4,13,ORG,0.5569
+,ivandeleonv,4,15,PER,0.9985
+,helenabuckartt,18,32,PER,0.9777
+,helena,49,55,PER,0.7988
+,calricarlos,4,15,PER,0.9595
+,veveka6,4,11,ORG,0.9979
+,perroneabogado,1,15,PER,0.9967
+,soberano,247,256,PER,0.9999
+,canicsal29,4,14,ORG,0.2767
+,gps,95,98,MISC,0.7395
+,declanharp12,4,16,PER,0.9929
+,ficha,89,94,MISC,0.6801
+,eduardoestrella,1,16,PER,0.9986
+,camarasd,18,26,ORG,0.3804
+,manuellunasued,28,42,PER,0.9842
+,anyarleneberges,44,59,PER,0.9998
+,tonyramosf,61,71,PER,0.4977
+,dios,166,170,MISC,0.6822
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,mav,4,7,ORG,0.9709
+,monkitumonkiyo,4,18,PER,0.641
+,johnmackerman,4,17,PER,0.9969
+,acidounexito,1,13,ORG,0.9869
+,vickyvillarruel,15,30,PER,0.9923
+,pablorichly,4,15,PER,0.9618
+,sanitariotiktok,4,19,ORG,0.8154
+,rtpcr,33,38,MISC,0.9246
+,egtegain,1,9,PER,0.7619
+,manhattan,11,20,LOC,0.9773
+,sepa,10,14,MISC,0.9946
+,cálido sol,126,136,MISC,0.9998
+,los tres deseos,139,154,MISC,0.9995
+,eres bonita,157,168,MISC,0.977
+,nidialongarini,4,18,PER,0.9986
+,dr,3,6,MISC,0.5146
+,@jeyson_auza,7,19,PER,0.873
+,ómicron,52,59,MISC,0.9999
+,mariolysosap,4,16,PER,0.9996
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,jljcolorado,1,12,ORG,0.7748
+,metro_madrid,27,39,ORG,0.9866
+,asambleamadrid,43,57,ORG,0.9998
+,renfe,129,134,ORG,0.9996
+,pabloiglesias,4,17,PER,0.9952
+,solchi1986,4,14,PER,0.9933
+,cartagoxx,4,13,ORG,0.5569
+,lptm,80,84,MISC,0.9978
+,ómicron’,63,71,MISC,0.9999
+,carrera,73,80,MISC,0.9848
+,pabloiglesias,4,17,PER,0.9952
+,45latecnica,4,15,ORG,0.8834
+,vissotti,53,61,PER,0.9999
+,rosapantin1301,4,18,ORG,0.5588
+,málaga,20,26,LOC,0.9997
+,españa,28,34,LOC,1.0
+,hospital univer,124,139,LOC,0.9449
+,amanda333333339,1,16,PER,0.4532
+,monkitumonkiyo,18,32,PER,0.726
+,astro,4,9,ORG,0.9994
+,spain2,10,16,ORG,0.6677
+,mj,33,35,PER,0.9856
+,happy virus,91,102,MISC,0.9999
+,vickytedije,1,12,PER,0.7417
+,monkitumonkiyo,4,18,PER,0.641
+,saragomezville1,4,19,PER,0.7521
+,petrogustavo,64,76,MISC,0.9919
+,maitexu73,1,10,PER,0.7896
+,monkitumonkiyo,12,26,PER,0.5908
+,nestorhr83,4,14,PER,0.8805
+,mariaferweb,30,41,PER,0.4112
+,pcr,81,84,MISC,0.9991
+,mjorgec1994,20,31,PER,0.7659
+,roannyll,33,41,PER,0.6437
+,batista,53,60,PER,0.9999
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,cartagoxx,4,13,ORG,0.5569
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,pabloiglesias,4,17,PER,0.9952
+,elhijodelrayo,4,17,PER,0.9627
+,cartagoxx,4,13,ORG,0.5569
+,francis16893780,4,19,PER,0.9982
+,b,88,89,MISC,0.6436
+,apaosanctuary,4,17,ORG,0.9826
+,omicronvirus,0,12,MISC,0.9996
+,juliancontr2000,1,16,PER,0.9959
+,reginafromsanmi,18,33,PER,0.9987
+,giovannilarosa0,50,65,PER,0.3536
+,gastoneltrueno,67,81,PER,0.9988
+,ig,185,187,MISC,0.9996
+,pabloiglesias,4,17,PER,0.9952
+,cinecristianm,4,17,ORG,0.488
+,caliupatriota,4,17,MISC,0.5915
+,mdsammymancilla,10,25,PER,0.9975
+,avmrrlmcr,27,36,MISC,0.9832
+,noti90minutos,1,14,ORG,0.9883
+,declanharp12,4,16,PER,0.9929
+,ficha,89,94,MISC,0.6801
+,raulher,4,11,PER,0.6033
+,mariaferweb,30,41,MISC,0.3979
+,epi,127,130,MISC,0.9967
+,hgmontesinai,4,16,ORG,0.9995
+,prevenirelvih,18,31,MISC,0.5999
+,vih,115,118,MISC,0.9995
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,quiquepeinado,4,17,ORG,0.6211
+,apaosanctuary,4,17,ORG,0.9826
+,marcomorareyes,4,18,PER,0.8172
+,ministro paris,55,69,PER,0.9996
+,eltorpedo,78,87,MISC,0.9999
+,apaosanctuary,4,17,ORG,0.9826
+,skais981,1,9,PER,0.3466
+,pabloiglesias,4,17,PER,0.9952
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,solchi1986,4,14,PER,0.9933
+,declanharp12,4,16,PER,0.9929
+,ficha,89,94,MISC,0.6801
+,pcia de bsas,3,15,LOC,0.9992
+,martinasisters,4,18,ORG,0.6561
+,sars,28,32,MISC,0.9999
+,sc2,73,76,MISC,0.9999
+,anamkra,4,11,ORG,0.9976
+,janogarcia,14,24,PER,0.4979
+,mav,4,7,ORG,0.7504
+,alcaldiademed,1,14,PER,0.9226
+,andreeuribem,16,28,PER,0.9969
+,gobierno,32,40,ORG,1.0
+,virus,125,130,MISC,0.9997
+,paros,183,188,MISC,0.9976
+,carnet vacunas,224,238,MISC,0.9995
+,rosapantin1301,4,18,ORG,0.5588
+,málaga,20,26,LOC,0.9997
+,españa,28,34,LOC,1.0
+,hospital univer,124,139,LOC,0.9449
+,rosapantin1301,4,18,ORG,0.5588
+,málaga,20,26,LOC,0.9997
+,españa,28,34,LOC,1.0
+,hospital univer,124,139,LOC,0.9449
+,saludgobpue,4,15,ORG,0.9974
+,sars-cov-2,65,75,MISC,0.9996
+,alertacovidpuebla,87,104,MISC,0.9617
+,domadora76,1,11,PER,0.8628
+,s v,57,60,MISC,0.9891
+,moderna,63,70,MISC,0.9994
+,noalpasesanitario,161,178,MISC,0.9463
+,quiquepeinado,4,17,ORG,0.6211
+,cartagoxx,4,13,ORG,0.5569
+,martinasisters,4,18,ORG,0.6243
+,dr carlo br,128,139,PER,0.9995
+,trastolillubcn,4,18,PER,0.9845
+,valytha90,1,10,PER,0.9544
+,angeline coetze,27,42,PER,0.9999
+,colegio medico de sudáfrica,58,85,ORG,0.9996
+,omicrón,111,118,MISC,0.9542
+,sanssff,1,8,ORG,0.9926
+,vivicanosaok,10,22,MISC,0.5748
+,fredyvillaagui,1,15,PER,0.9996
+,dionyurquizo,17,29,PER,0.9997
+,adrianpastorel1,31,46,PER,0.9997
+,katheri96955271,48,63,PER,0.7968
+,guidopuka,65,74,PER,0.9994
+,señora k,81,89,MISC,0.8763
+,singapur,210,218,LOC,0.9999
+,pl,319,321,MISC,0.6334
+,martinasisters,4,18,PER,0.99
+,bidolinicola,38,50,PER,0.9954
+,losahernan,1,11,MISC,0.4678
+,monkitumonkiyo,4,18,PER,0.641
+,trajano75336888,4,19,PER,0.9292
+,elmundoes,22,31,ORG,0.9871
+,europa,56,62,LOC,1.0
+,satkryu,1,8,PER,0.2699
+,skiel85,10,17,MISC,0.4071
+,carlosmaslaton,19,33,PER,0.9994
+,martinasisters,4,18,ORG,0.6404
+,tamairycabrera,1,15,PER,0.9857
+,anabellamariad,4,18,PER,0.4634
+,quiquepeinado,4,17,ORG,0.6211
+,saragomezville1,4,19,PER,0.7521
+,petrogustavo,64,76,MISC,0.9919
+,aacamerano,1,11,ORG,0.6683
+,libertaddoctora,13,28,ORG,0.9657
+,anmatsalud,30,40,ORG,0.9999
+,nobel,256,261,MISC,0.9987
+,cartagoxx,4,13,ORG,0.5569
+,javipaz87973322,1,16,PER,0.9976
+,reginafromsanmi,18,33,PER,0.998
+,giovannilarosa0,50,65,PER,0.6655
+,gastoneltrueno,67,81,PER,0.999
+,arn,158,161,MISC,0.9995
+,adn,235,238,MISC,0.9999
+,martinasisters,4,18,ORG,0.8123
+,discernimiento,69,83,MISC,0.9999
+,cinecristianm,4,17,ORG,0.488
+,monkitumonkiyo,4,18,PER,0.641
+,brujareal,4,13,ORG,0.9598
+,sepa,25,29,MISC,0.9936
+,magalinmio,1,11,PER,0.9802
+,javierglezv,13,24,PER,0.9909
+,eugeniodors,26,37,PER,0.9976
+,elazotedelnom,1,14,PER,0.6929
+,johnmackerman,4,17,PER,0.9969
+,libertad003,4,15,ORG,0.7512
+,3dic,21,25,MISC,0.8722
+,laprevencióneslaclave,29,50,MISC,0.9999
+,magdale67771459,1,16,PER,0.9805
+,doritamestanza,18,32,PER,0.999
+,ivanftobar,34,44,PER,0.9989
+,biessecuador,46,58,ORG,0.7399
+,iessec,60,66,ORG,0.9998
+,lassoguillermo,80,94,PER,0.9966
+,pulecomunica,4,16,ORG,0.9577
+,farmaciadeguardia,29,46,MISC,0.9461
+,africagozalbes,92,106,PER,0.8348
+,concha cuetos,109,122,PER,0.9999
+,monts,133,138,PER,0.9996
+,ministeriosalud,1,16,ORG,0.9933
+,drenriqueparis,18,32,PER,0.8798
+,teletón,46,53,MISC,0.9998
+,aniblue1212,4,15,PER,0.7244
+,noalpasesanitario nurembergcode,17,48,MISC,0.9999
+,solchi1986,4,14,PER,0.9933
+,johnmackerman,4,17,PER,0.9969
+,gustavo__olmos,1,15,PER,0.9999
+,hespanolazo,1,12,MISC,0.5364
+,vtvcanal8,4,13,ORG,0.9494
+,cuidatusalud,15,27,MISC,0.9275
+,laseiam,1,8,PER,0.6407
+,sebaub12,10,18,PER,0.5269
+,pabloiglesias,4,17,PER,0.9952
+,pabloiglesias,4,17,PER,0.9952
+,pabloiglesias,4,17,PER,0.9952
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,johnmackerman,4,17,PER,0.9969
+,anilem,4,10,ORG,0.8011
+,4cuenta,11,18,MISC,0.7021
+,ramseoane,4,13,PER,0.701
+,carlosmaslaton,10,24,PER,0.9996
+,saluddeportesbo,4,19,ORG,0.9378
+,dr,24,27,PER,0.4901
+,@jeyson_auza,28,40,PER,0.9127
+,ómicron,73,80,MISC,0.9999
+,martinasisters,4,18,ORG,0.6965
+,flexibilizaciónampliada,13,36,MISC,0.8641
+,valytha90,1,10,PER,0.9861
+,la siomi,47,55,ORG,0.9999
+,martinasisters,4,18,ORG,0.6128
+,newsreputation,4,18,ORG,0.998
+,daniwolv,1,9,PER,0.5408
+,monkitumonkiyo,4,18,PER,0.641
+,marcelomoyaf,4,16,PER,0.9137
+,ministeriosalud,19,34,ORG,0.9954
+,drenriqueparis,36,50,PER,0.7697
+,jochescobar57,4,17,PER,0.8744
+,domadora76,20,30,PER,0.8935
+,s v,76,79,MISC,0.986
+,moderna,82,89,MISC,0.9993
+,pabloiglesias,4,17,PER,0.9952
+,cuidatusalud,0,12,MISC,0.9988
+,6dic  flexibilizaciónampliada,193,222,MISC,0.9999
+,mariolysosap,4,16,PER,0.9996
+,johnmackerman,4,17,PER,0.9969
+,comandante borolas,81,99,PER,0.9995
+,fmi,144,147,ORG,0.9999
+,birmex,226,232,ORG,0.9577
+,carlosmaslaton,10,24,PER,0.9995
+,zepa,179,183,MISC,0.9998
+,surafrica,194,203,LOC,0.9996
+,brasil,215,221,LOC,1.0
+,wahioka,4,11,PER,0.911
+,germanenriquen2,4,19,ORG,0.9358
+,leydisperdomo4,92,106,PER,0.4478
+,vallerca29,108,118,PER,0.9992
+,yasmi70,120,127,PER,0.5959
+,alejand,130,137,PER,0.9995
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,tonymanya1891,4,17,PER,0.9994
+,paranense,80,89,ORG,0.9441
+,tickantel,91,100,ORG,0.9971
+,iesbianfairy,1,13,MISC,0.4839
+,chester,1,8,LOC,0.5184
+,cristina,15,23,LOC,0.9993
+,reaan04,4,11,ORG,0.8457
+,janogarcia,14,24,PER,0.4829
+,vtvcanal8,4,13,ORG,0.9494
+,cuidatusalud,15,27,MISC,0.9275
+,vtvcanal8,4,13,ORG,0.9494
+,cuidatusalud,15,27,MISC,0.9275
+,cartagoxx,4,13,ORG,0.5569
+,solchi1986,4,14,PER,0.9933
+,declanharp12,4,16,PER,0.9929
+,ficha,89,94,MISC,0.6801
+,nimitzcvn68,12,23,PER,0.9368
+,chávez,172,178,PER,0.9998
+,maduro,187,193,PER,0.9997
+,chuuyastan1,1,12,PER,0.9124
+,santiago,0,8,LOC,0.9999
+,luis martínez,11,24,PER,1.0
+,maría ledesma ayala,57,76,PER,1.0
+,la ciénaga,169,179,LOC,1.0
+,villa gonzález,181,195,LOC,1.0
+,vih,266,269,MISC,0.9998
+,wuhan,34,39,LOC,1.0
+,pabloiglesias,4,17,PER,0.9952
+,poleorafael,13,24,PER,0.9827
+,mundo,102,107,LOC,0.9913
+,vtvcanal8,4,13,ORG,0.9494
+,cuidatusalud,15,27,MISC,0.9275
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,todoscontraelcovid19,40,60,MISC,0.9998
+,apaosanctuary,4,17,ORG,0.9826
+,elardkoch,4,13,PER,0.6156
+,drfreedomra,4,15,PER,0.8676
+,vizzotti,36,44,MISC,0.5725
+,cartagoxx,4,13,ORG,0.5569
+,orningrodriguez,4,19,PER,0.9981
+,k,55,56,PER,0.9484
+,che,64,67,PER,0.9062
+,cepa,91,95,MISC,0.9993
+,solchi1986,4,14,PER,0.9933
+,danyelath13,1,12,PER,0.9981
+,arnm,278,282,MISC,0.9993
+,cartagoxx,4,13,ORG,0.5569
+,pabloiglesias,4,17,PER,0.9952
+,er_miniaba,1,11,PER,0.8524
+,dgmendia,13,21,PER,0.4974
+,monkitumonkiyo,23,37,PER,0.4765
+,minsaludcol,1,12,ORG,0.9984
+,fruizgomez,14,24,PER,0.9981
+,infopresidencia,26,41,ORG,0.9941
+,ivanduque,43,52,PER,0.5153
+,supersalud,54,64,ORG,0.9995
+,ungrd,66,71,ORG,0.9997
+,urnadecristal,73,86,ORG,0.9033
+,vicecolombia,88,100,ORG,0.9997
+,mininterior,102,113,ORG,0.9251
+,monkitumonkiyo,4,18,PER,0.641
